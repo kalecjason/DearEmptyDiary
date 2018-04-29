@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: bca5337a9b41ba640b3c6c329df50048
+timeCreated: 1511928093
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dark Ruby_0
+    21300002: Dark Ruby_1
+    21300004: Dark Ruby_2
+    21300006: Dark Ruby_3
+    21300008: Dark Ruby_4
+    21300010: Dark Ruby_5
+    21300012: Dark Ruby_6
+    21300014: Dark Ruby_7
+    21300016: Dark Ruby_8
+    21300018: Dark Ruby_9
+    21300020: Dark Ruby_10
+    21300022: Dark Ruby_11
+    21300024: Dark Ruby_12
+    21300026: Dark Ruby_13
+    21300028: Dark Ruby_14
+    21300030: Dark Ruby_15
+    21300032: Dark Ruby_16
+    21300034: Dark Ruby_17
+    21300036: Dark Ruby_18
+    21300038: Dark Ruby_19
+    21300040: Dark Ruby_20
+    21300042: Dark Ruby_21
+    21300044: Dark Ruby_22
+    21300046: Dark Ruby_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Ruby_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2318
+        width: 546
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_1
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2324
+        width: 545
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_2
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 2318
+        width: 544
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_3
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 2325
+        width: 547
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1599
+        width: 544
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1593
+        width: 545
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_6
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1599
+        width: 547
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_7
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1593
+        width: 546
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 860
+        width: 477
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_9
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1172
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_10
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 855
+        width: 477
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_11
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1172
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_12
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 856
+        width: 476
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_13
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1172
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_14
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 855
+        width: 477
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_15
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1172
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 454
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 137
+        width: 476
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_18
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 454
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_19
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 140
+        width: 476
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_20
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 454
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_21
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 137
+        width: 477
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_22
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 454
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark Ruby_23
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 143
+        width: 477
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

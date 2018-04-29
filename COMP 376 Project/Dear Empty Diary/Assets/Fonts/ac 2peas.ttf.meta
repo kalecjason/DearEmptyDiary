@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 336f682308eb7634f9b82cd0be73a393
+timeCreated: 1511753376
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 2peas
+  fontNames:
+  - 2peas
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,126 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   23.21.13.8831
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kaiiku\Documents\comp376-project\Executables\Final\Dear Empty Diary_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1093 at 0,-13
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.975289 ms
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.473649 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 564.
+Total: 0.310244 ms (FindLiveObjects: 0.026568 ms CreateObjectMapping: 0.015498 ms MarkObjects: 0.263472 ms  DeleteObjects: 0.004151 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RubyHealth.updateHealth () [0x00000] in <filename unknown>:0 
+  at RubyHealth.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ProcessEndDialogue() called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saved Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You finished the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.525837 ms
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.631835 ms (FindLiveObjects: 0.034871 ms CreateObjectMapping: 0.017435 ms MarkObjects: 0.283398 ms  DeleteObjects: 0.295575 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.605543 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 389.
+Total: 0.229984 ms (FindLiveObjects: 0.026845 ms CreateObjectMapping: 0.014391 ms MarkObjects: 0.178784 ms  DeleteObjects: 0.009686 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.399636 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 486.
+Total: 0.265132 ms (FindLiveObjects: 0.024908 ms CreateObjectMapping: 0.015221 ms MarkObjects: 0.211718 ms  DeleteObjects: 0.012730 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RubyHealth.updateHealth () [0x00000] in <filename unknown>:0 
+  at RubyHealth.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.392717 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 0.276756 ms (FindLiveObjects: 0.026291 ms CreateObjectMapping: 0.021310 ms MarkObjects: 0.214486 ms  DeleteObjects: 0.014114 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.657296 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1340.
+Total: 0.406555 ms (FindLiveObjects: 0.059502 ms CreateObjectMapping: 0.022694 ms MarkObjects: 0.294192 ms  DeleteObjects: 0.029612 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.884236 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1375.
+Total: 0.326572 ms (FindLiveObjects: 0.037362 ms CreateObjectMapping: 0.023247 ms MarkObjects: 0.243822 ms  DeleteObjects: 0.021587 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.931285 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 564.
+Total: 0.375005 ms (FindLiveObjects: 0.031550 ms CreateObjectMapping: 0.016051 ms MarkObjects: 0.257106 ms  DeleteObjects: 0.069465 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RubyHealth.updateHealth () [0x00000] in <filename unknown>:0 
+  at RubyHealth.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ProcessEndDialogue() called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saved Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You finished the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.524176 ms
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.464950 ms (FindLiveObjects: 0.018542 ms CreateObjectMapping: 0.016328 ms MarkObjects: 0.233028 ms  DeleteObjects: 0.196773 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4fac -> priority: 1 
+  Thread -> id: 3fcc -> priority: 1 
+  Thread -> id: 1ba4 -> priority: 1 
+  Thread -> id: 4b98 -> priority: 1 
